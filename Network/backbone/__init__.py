@@ -1,0 +1,1 @@
+from AOST.Network.backbone.resnet import resnet18
